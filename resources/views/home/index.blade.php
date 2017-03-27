@@ -9,13 +9,13 @@
         <title>BLOG  | Amaze UI Examples</title>
         <meta name="renderer" content="webkit">
         <meta http-equiv="Cache-Control" content="no-siteapp"/>
-        <link rel="icon" type="image/png" href="./home_dist/assets/i/favicon.png">
+        <link rel="icon" type="image/png" href="/home_distassets/i/favicon.png">
         <meta name="mobile-web-app-capable" content="yes">
-        <link rel="icon" sizes="192x192" href="./home_dist/assets/i/app-icon72x72@2x.png">
+        <link rel="icon" sizes="192x192" href="/home_distassets/i/app-icon72x72@2x.png">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <meta name="apple-mobile-web-app-title" content="Amaze UI"/>
-        <link rel="apple-touch-icon-precomposed" href="./home_dist/assets/i/app-icon72x72@2x.png">
+        <link rel="apple-touch-icon-precomposed" href="/home_distassets/i/app-icon72x72@2x.png">
         <meta name="msapplication-TileImage" content="assets/i/app-icon72x72@2x.png">
         <meta name="msapplication-TileColor" content="#0e90d2">
         <link rel="stylesheet" href="/home_dist/assets/css/amazeui.min.css">
@@ -49,22 +49,22 @@
 
             <div class="am-collapse am-topbar-collapse" id="blog-collapse">
                 <ul class="am-nav am-nav-pills am-topbar-nav">
-                    <li class="am-active"><a href="./home_dist/lw-index.html">首页</a></li>
+                    <li class="am-active"><a href="/home_distlw-index.html">首页</a></li>
                     <li class="am-dropdown" data-am-dropdown>
-                        <a class="am-dropdown-toggle" data-am-dropdown-toggle href="./home_dist/javascript:;">
+                        <a class="am-dropdown-toggle" data-am-dropdown-toggle href="/home_distjavascript:;">
                         首页布局 <span class="am-icon-caret-down"></span>
                         </a>
                         <ul class="am-dropdown-content">
-                            <li><a href="./home_dist/lw-index.html">1. blog-index-standard</a></li>         
-                            <li><a href="./home_dist/lw-index-nosidebar.html">2. blog-index-nosidebar</a></li>
-                            <li><a href="./home_dist/lw-index-center.html">3. blog-index-layout</a></li>
-                            <li><a href="./home_dist/lw-index-noslider.html">4. blog-index-noslider</a></li>
+                            <li><a href="/home_distlw-index.html">1. blog-index-standard</a></li>         
+                            <li><a href="/home_distlw-index-nosidebar.html">2. blog-index-nosidebar</a></li>
+                            <li><a href="/home_distlw-index-center.html">3. blog-index-layout</a></li>
+                            <li><a href="/home_distlw-index-noslider.html">4. blog-index-noslider</a></li>
                         </ul>
                     </li>
-                    <li><a href="./home_dist/lw-article.html">标准文章</a></li>
-                    <li><a href="./home_dist/lw-img.html">图片库</a></li>
-                    <li><a href="./home_dist/lw-article-fullwidth.html">全宽页面</a></li>
-                    <li><a href="./home_dist/lw-timeline.html">存档</a></li>
+                    <li><a href="/home_distlw-article.html">标准文章</a></li>
+                    <li><a href="/home_distlw-img.html">图片库</a></li>
+                    <li><a href="/home_distlw-article-fullwidth.html">全宽页面</a></li>
+                    <li><a href="/home_distlw-timeline.html">存档</a></li>
                 </ul>
                 <form class="am-topbar-form am-topbar-right am-form-inline" role="search">
                 <div class="am-form-group">
@@ -85,12 +85,12 @@
                         <img src="/home_dist/assets/i/f10.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article &nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article &nbsp;</a></span>
                         <span> @amazeUI &nbsp;</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">总在思考一句积极的话</a></h1>
+                        <h1><a href="/home_dist">总在思考一句积极的话</a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。</p>
-                        <p><a href="./home_dist/" class="blog-continue">continue reading</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue reading</a></p>
                     </div>
                 </article>
 
@@ -99,13 +99,13 @@
                         <img src="/home_dist/assets/i/f6.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span>@amazeUI &nbsp;</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">选择的正确性</a></h1>
+                        <h1><a href="/home_dist">选择的正确性</a></h1>
                         <p>你可以选择在原处不停地跟周遭不解的人解释你为何这么做，让他们理解你，你可以选择什么都不讲，自顾自往前走。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue</a></p>
                     </div>
                 </article>
 
@@ -114,13 +114,13 @@
                         <img src="/home_dist/assets/i/f12.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span>@amazeUI</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">开心时拥抱全世界</a></h1>
+                        <h1><a href="/home_dist">开心时拥抱全世界</a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue</a></p>
                     </div>
                 </article>
 
@@ -129,13 +129,13 @@
                         <img src="/home_dist/assets/i/f13.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span>@amazeUI</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">总以为机会无限</a></h1>
+                        <h1><a href="/home_dist">总以为机会无限</a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue</a></p>
                     </div>
                 </article>
 
@@ -144,13 +144,13 @@
                         <img src="/home_dist/assets/i/f10.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span> @amazeUI &nbsp;</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">GIVE ME SOME BIG TEXT AND FONT </a></h1>
+                        <h1><a href="/home_dist">GIVE ME SOME BIG TEXT AND FONT </a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue reading</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue reading</a></p>
                     </div>
                 </article>
 
@@ -159,13 +159,13 @@
                         <img src="/home_dist/assets/i/f10.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span> @amazeUI &nbsp;</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">taha cool man i do believe</a></h1>
+                        <h1><a href="/home_dist">taha cool man i do believe</a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue reading</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue reading</a></p>
                     </div>
                 </article>
 
@@ -174,19 +174,19 @@
                         <img src="/home_dist/assets/i/f10.jpg" alt="" class="am-u-sm-12">
                     </div>
                     <div class="am-u-lg-6 am-u-md-12 am-u-sm-12 blog-entry-text">
-                        <span><a href="./home_dist/" class="blog-color">article&nbsp;</a></span>
+                        <span><a href="/home_dist" class="blog-color">article&nbsp;</a></span>
                         <span> @amazeUI &nbsp;</span>
                         <span>2015/10/9</span>
-                        <h1><a href="./home_dist/">taha cool man i do believe</a></h1>
+                        <h1><a href="/home_dist">taha cool man i do believe</a></h1>
                         <p>那时候刚好下着雨，柏油路面湿冷冷的，还闪烁着青、黄、红颜色的灯火。我们就在骑楼下躲雨，看绿色的邮筒孤独地站在街的对面。
                         </p>
-                        <p><a href="./home_dist/" class="blog-continue">continue reading</a></p>
+                        <p><a href="/home_dist" class="blog-continue">continue reading</a></p>
                     </div>
                 </article>
 
                 <ul class="am-pagination">
-                    <li class="am-pagination-prev"><a href="./home_dist/">&laquo; Prev</a></li>
-                    <li class="am-pagination-next"><a href="./home_dist/">Next &raquo;</a></li>
+                    <li class="am-pagination-prev"><a href="/home_dist">&laquo; Prev</a></li>
+                    <li class="am-pagination-next"><a href="/home_dist">Next &raquo;</a></li>
                 </ul>
             </div>
 
@@ -205,31 +205,31 @@
                 <div class="blog-sidebar-widget blog-bor">
                     <h2 class="blog-text-center blog-title"><span>Contact ME</span></h2>
                     <p>
-                    <a href="./home_dist/"><span class="am-icon-qq am-icon-fw am-primary blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-github am-icon-fw blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-weibo am-icon-fw blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-reddit am-icon-fw blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-weixin am-icon-fw blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-qq am-icon-fw am-primary blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-github am-icon-fw blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-weibo am-icon-fw blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-reddit am-icon-fw blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-weixin am-icon-fw blog-icon"></span></a>
                     </p>
                 </div>
                 <div class="blog-clear-margin blog-sidebar-widget blog-bor am-g ">
                     <h2 class="blog-title"><span>TAG cloud</span></h2>
                     <div class="am-u-sm-12 blog-clear-padding">
-                        <a href="./home_dist/" class="blog-tag">amaze</a>
-                        <a href="./home_dist/" class="blog-tag">妹纸 UI</a>
-                        <a href="./home_dist/" class="blog-tag">HTML5</a>
-                        <a href="./home_dist/" class="blog-tag">这是标签</a>
-                        <a href="./home_dist/" class="blog-tag">Impossible</a>
-                        <a href="./home_dist/" class="blog-tag">开源前端框架</a>
+                        <a href="/home_dist" class="blog-tag">amaze</a>
+                        <a href="/home_dist" class="blog-tag">妹纸 UI</a>
+                        <a href="/home_dist" class="blog-tag">HTML5</a>
+                        <a href="/home_dist" class="blog-tag">这是标签</a>
+                        <a href="/home_dist" class="blog-tag">Impossible</a>
+                        <a href="/home_dist" class="blog-tag">开源前端框架</a>
                     </div>
                 </div>
                 <div class="blog-sidebar-widget blog-bor">
                     <h2 class="blog-title"><span>么么哒</span></h2>
                     <ul class="am-list">
-                    <li><a href="./home_dist/#">每个人都有一个死角， 自己走不出来，别人也闯不进去。</a></li>
-                    <li><a href="./home_dist/#">我把最深沉的秘密放在那里。</a></li>
-                    <li><a href="./home_dist/#">你不懂我，我不怪你。</a></li>
-                    <li><a href="./home_dist/#">每个人都有一道伤口， 或深或浅，盖上布，以为不存在。</a></li>
+                    <li><a href="/home_dist#">每个人都有一个死角， 自己走不出来，别人也闯不进去。</a></li>
+                    <li><a href="/home_dist#">我把最深沉的秘密放在那里。</a></li>
+                    <li><a href="/home_dist#">你不懂我，我不怪你。</a></li>
+                    <li><a href="/home_dist#">每个人都有一道伤口， 或深或浅，盖上布，以为不存在。</a></li>
                     </ul>
                 </div>
             </div>
@@ -247,11 +247,11 @@
                 <div class="am-u-sm-12 am-u-md-4- am-u-lg-4">
                     <h3>社交账号</h3>
                     <p>
-                    <a href="./home_dist/"><span class="am-icon-qq am-icon-fw am-primary blog-icon blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-github am-icon-fw blog-icon blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-weibo am-icon-fw blog-icon blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-reddit am-icon-fw blog-icon blog-icon"></span></a>
-                    <a href="./home_dist/"><span class="am-icon-weixin am-icon-fw blog-icon blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-qq am-icon-fw am-primary blog-icon blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-github am-icon-fw blog-icon blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-weibo am-icon-fw blog-icon blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-reddit am-icon-fw blog-icon blog-icon"></span></a>
+                    <a href="/home_dist"><span class="am-icon-weixin am-icon-fw blog-icon blog-icon"></span></a>
                     </p>
                     <h3>Credits</h3>
                     <p>我们追求卓越，然时间、经验、能力有限。Amaze UI 有很多不足的地方，希望大家包容、不吝赐教，给我们提意见、建议。感谢你们！</p>          
